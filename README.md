@@ -17,5 +17,6 @@ chmod +x ~/setup.sh
 3) Execute script
 ```bash
 ./setup.sh
-```
 
+```
+4) Restart your terminal.
